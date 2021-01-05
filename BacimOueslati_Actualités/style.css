@@ -1,0 +1,17 @@
+h1, h4, nav, footer
+{
+    text-align : center
+}
+
+h4
+{
+    margin-top:25px;
+    overflow: auto;
+    width : 100%;
+    text-align : justify;
+}
+
+h1
+{
+    color :blueviolet;
+}
