@@ -1,0 +1,47 @@
+table
+{
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px;
+    z-index: 0;
+}
+
+tr,td
+{
+    border: 1px solid black;
+    text-align: center;
+    padding: 2px;
+}
+           
+th
+{
+    background: black;
+    text-align: center;
+    vertical-align: top;
+    color: white;
+    font: italic bold 10px "tahoma";
+    border: 1px solid red;
+    padding: 7px;
+}
+        
+tr:nth-child(even)
+{
+    background: white;
+    color: black;
+}
+              
+tr:nth-child(odd)
+{
+    background: red;
+    color: white;
+}
+               
+tr:hover
+{
+    background: navy;
+    color:lightblue;
+                
+}
+        
+
+            
