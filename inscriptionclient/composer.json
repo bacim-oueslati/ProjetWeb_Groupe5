@@ -1,0 +1,6 @@
+{
+    "name": "derba/inscriptionclient",
+    "require": {
+        "google/recaptcha": "^1.2"
+    }
+}
