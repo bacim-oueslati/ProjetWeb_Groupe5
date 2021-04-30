@@ -1,0 +1,4 @@
+#ifndef QUERDEFINES_H
+#define QUERDEFINES_H
+
+#endif // QUERDEFINES_H
